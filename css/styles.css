@@ -1,0 +1,48 @@
+/****************************** TAG SELECTORS ******************************/
+body{
+    background-color: #FFDAC7;
+}
+
+hr{
+    border-color: #FFADAD;
+    border-style: dotted none none none;
+    border-width: 7px;
+    height: 2px;
+    width: 10%;
+}
+
+h1{
+    color: #E75480;
+
+}
+
+
+h3 {
+    color: #ec769a;
+
+}
+
+img:hover{
+    background-color: #FFADAD;
+}
+
+/****************************** CLASS SELECTORS ******************************/
+/* Multiple elements can have the same class*/
+/* One element can have 2+ classes*/
+
+/*
+.other{
+
+    color: black;
+}
+*/
+
+/****************************** ID SELECTORS ******************************/
+/* ID is UNIQUE*/
+
+/*
+#heading {
+    color: fuchsia;
+}
+*/
+
